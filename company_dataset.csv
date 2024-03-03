@@ -1,0 +1,500 @@
+Date,Payment_Method,Category,Description,Expense,Income,Amount,Currency
+01-01-2023,Credit Card,Office Supplies,Purchase of laptops,Expense,,50000,INR
+05-01-2023,UPI,Travel,Team building retreat,Expense,,75000,INR
+08-01-2023,Direct Debit,Utilities,Internet and phone bills,Expense,,12000,INR
+10-02-2023,Invoice,Printing,Marketing materials printing,Expense,,15000,INR
+11-02-2023,Cash,Food,Catering for office party,Expense,,20000,INR
+12-02-2023,Credit Card,Technology,Software licenses renewal,Expense,,30000,INR
+17-02-2023,Direct Debit,Rent,Office rent for the month,Expense,,80000,INR
+18-02-2023,UPI,Maintenance,Office equipment maintenance,Expense,,10000,INR
+19-03-2023,Invoice,Events,Hosting a tech conference,Expense,,60000,INR
+20-03-2023,Credit Card,Workshops,Employee training workshops,Expense,,25000,INR
+21-03-2023,UPI,Tours,Client site visits,Expense,,35000,INR
+22-03-2023,Cash,Repairs,Fixing office infrastructure,Expense,,12000,INR
+23-03-2023,Credit Card,Advertising,Online marketing campaign,Expense,,18000,INR
+24-03-2023,Invoice,Patents,Investment in new patents,Expense,,50000,INR
+25-03-2023,Direct Debit,Legal fees,Consultation with legal experts,Expense,,15000,INR
+26-03-2023,Credit Card,Taxes,Corporate taxes payment,Expense,,45000,INR
+27-03-2023,Cash,Payroll,Employee salaries,Expense,,90000,INR
+28-04-2023,UPI,Insurance,Health insurance premiums,Expense,,20000,INR
+29-04-2023,Direct Debit,Travel,Client visit travel expenses,Expense,,30000,INR
+30-04-2023,Invoice,Printing,Printing marketing brochures,Expense,,12000,INR
+21-01-2023,Credit Card,Food,Team lunch meeting,Expense,,8000,INR
+22-01-2023,Cash,Technology,Upgrade server infrastructure,Expense,,40000,INR
+23-01-2023,UPI,Rent,Office rent for the month,Expense,,80000,INR
+24-01-2023,Credit Card,Maintenance,Equipment repairs,Expense,,15000,INR
+25-04-2023,Invoice,Events,Participation in tech expo,Expense,,30000,INR
+26-04-2023,Direct Debit,Workshops,Skill development workshops,Expense,,25000,INR
+27-01-2023,Credit Card,Tours,Business development tours,Expense,,40000,INR
+28-01-2023,UPI,Repairs,Fixing office infrastructure,Expense,,12000,INR
+29-01-2023,Cash,Advertising,Social media advertising,Expense,,20000,INR
+30-01-2023,Invoice,Patents,Research and development,Expense,,60000,INR
+01-02-2023,Invoice,Project Earnings,Client Project A,,Income,120000,INR
+02-02-2023,Bank Transfer,External Funds,Investor Funding Round,,Income,200000,INR
+03-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,10000,INR
+04-02-2023,Bank Transfer,Investors,New Investor Funding,,Income,80000,INR
+05-02-2023,Invoice,Project Earnings,Client Project B,,Income,80000,INR
+06-02-2023,Bank Transfer,External Funds,Angel Investor Contribution,,Income,300000,INR
+07-02-2023,Bank Transfer,Investors,Seed Funding,,Income,50000,INR
+08-02-2023,Invoice,Project Earnings,Client Project C,,Income,100000,INR
+09-02-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,200000,INR
+10-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+11-02-2023,Bank Transfer,Investors,Series A Funding,,Income,250000,INR
+12-02-2023,Invoice,Project Earnings,Client Project D,,Income,95000,INR
+13-02-2023,Bank Transfer,External Funds,Private Equity Investment,,Income,200000,INR
+14-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,15000,INR
+15-02-2023,Bank Transfer,Investors,Series B Funding,,Income,100000,INR
+16-02-2023,Invoice,Project Earnings,Client Project E,,Income,110000,INR
+17-04-2023,Online Payment,External Funds,Crowdfunding Campaign,,Income,100000,INR
+18-02-2023,Bank Transfer,Investors,Series C Funding,,Income,100000,INR
+19-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,8000,INR
+20-02-2023,Invoice,Project Earnings,Client Project F,,Income,75000,INR
+21-04-2023,Bank Transfer,External Funds,Angel Investor Contribution,,Income,200000,INR
+22-02-2023,Bank Transfer,Investors,Series D Funding,,Income,20000,INR
+23-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,10000,INR
+24-06-2023,Invoice,Project Earnings,Client Project G,,Income,85000,INR
+25-06-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,300000,INR
+26-06-2023,Bank Transfer,Investors,Series E Funding,,Income,150000,INR
+27-06-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+28-06-2023,Invoice,Project Earnings,Client Project H,,Income,90000,INR
+10-02-2023,Invoice,Printing,Marketing materials printing,Expense,,15000,INR
+11-02-2023,Cash,Food,Catering for office party,Expense,,20000,INR
+12-02-2023,Credit Card,Technology,Software licenses renewal,Expense,,30000,INR
+17-02-2023,Direct Debit,Rent,Office rent for the month,Expense,,80000,INR
+18-02-2023,UPI,Maintenance,Office equipment maintenance,Expense,,10000,INR
+19-03-2023,Invoice,Events,Hosting a tech conference,Expense,,60000,INR
+20-03-2023,Credit Card,Workshops,Employee training workshops,Expense,,85000,INR
+21-03-2023,UPI,Tours,Client site visits,Expense,,135000,INR
+22-03-2023,Cash,Repairs,Fixing office infrastructure,Expense,,12000,INR
+08-01-2023,Direct Debit,Utilities,Internet and phone bills,Expense,,12000,INR
+10-02-2023,Invoice,Printing,Marketing materials printing,Expense,,15000,INR
+11-02-2023,Cash,Food,Catering for office party,Expense,,20000,INR
+12-02-2023,Credit Card,Technology,Software licenses renewal,Expense,,30000,INR
+17-02-2023,Direct Debit,Rent,Office rent for the month,Expense,,80000,INR
+18-02-2023,UPI,Maintenance,Office equipment maintenance,Expense,,10000,INR
+19-03-2023,Invoice,Events,Hosting a tech conference,Expense,,60000,INR
+20-03-2023,Credit Card,Workshops,Employee training workshops,Expense,,25000,INR
+21-03-2023,UPI,Tours,Client site visits,Expense,,35000,INR
+22-03-2023,Cash,Repairs,Fixing office infrastructure,Expense,,12000,INR
+23-01-2023,Credit Card,Advertising,Online marketing campaign,Expense,,18000,INR
+24-01-2023,Invoice,Patents,Investment in new patents,Expense,,50000,INR
+25-01-2023,Direct Debit,Legal fees,Consultation with legal experts,Expense,,15000,INR
+26-01-2023,Credit Card,Taxes,Corporate taxes payment,Expense,,45000,INR
+27-01-2023,Cash,Payroll,Employee salaries,Expense,,90000,INR
+28-01-2023,UPI,Insurance,Health insurance premiums,Expense,,20000,INR
+29-01-2023,Direct Debit,Travel,Client visit travel expenses,Expense,,30000,INR
+30-01-2023,Invoice,Printing,Printing marketing brochures,Expense,,12000,INR
+21-01-2023,Credit Card,Food,Team lunch meeting,Expense,,8000,INR
+22-01-2023,Cash,Technology,Upgrade server infrastructure,Expense,,40000,INR
+23-01-2023,UPI,Rent,Office rent for the month,Expense,,80000,INR
+24-01-2023,Credit Card,Maintenance,Equipment repairs,Expense,,15000,INR
+25-04-2023,Invoice,Events,Participation in tech expo,Expense,,30000,INR
+26-04-2023,Direct Debit,Workshops,Skill development workshops,Expense,,25000,INR
+27-01-2023,Credit Card,Tours,Business development tours,Expense,,40000,INR
+28-01-2023,UPI,Repairs,Fixing office infrastructure,Expense,,12000,INR
+29-01-2023,Cash,Advertising,Social media advertising,Expense,,20000,INR
+30-01-2023,Invoice,Patents,Research and development,Expense,,60000,INR
+01-02-2023,Invoice,Project Earnings,Client Project A,,Income,120000,INR
+02-02-2023,Bank Transfer,External Funds,Investor Funding Round,,Income,200000,INR
+03-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,10000,INR
+04-02-2023,Bank Transfer,Investors,New Investor Funding,,Income,80000,INR
+05-02-2023,Invoice,Project Earnings,Client Project B,,Income,80000,INR
+06-02-2023,Bank Transfer,External Funds,Angel Investor Contribution,,Income,300000,INR
+07-02-2023,Bank Transfer,Investors,Seed Funding,,Income,50000,INR
+08-02-2023,Invoice,Project Earnings,Client Project C,,Income,100000,INR
+09-02-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,200000,INR
+10-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+11-02-2023,Bank Transfer,Investors,Series A Funding,,Income,250000,INR
+12-02-2023,Invoice,Project Earnings,Client Project D,,Income,95000,INR
+13-02-2023,Bank Transfer,External Funds,Private Equity Investment,,Income,200000,INR
+14-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,15000,INR
+15-02-2023,Bank Transfer,Investors,Series B Funding,,Income,100000,INR
+16-02-2023,Invoice,Project Earnings,Client Project E,,Income,110000,INR
+17-04-2023,Online Payment,External Funds,Crowdfunding Campaign,,Income,100000,INR
+18-02-2023,Bank Transfer,Investors,Series C Funding,,Income,100000,INR
+19-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,8000,INR
+20-02-2023,Invoice,Project Earnings,Client Project F,,Income,75000,INR
+21-04-2023,Bank Transfer,External Funds,Angel Investor Contribution,,Income,200000,INR
+22-02-2023,Bank Transfer,Investors,Series D Funding,,Income,20000,INR
+23-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,10000,INR
+24-06-2023,Invoice,Project Earnings,Client Project G,,Income,85000,INR
+25-06-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,300000,INR
+26-06-2023,Bank Transfer,Investors,Series E Funding,,Income,150000,INR
+27-06-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+28-06-2023,Invoice,Project Earnings,Client Project H,,Income,90000,INR
+10-02-2023,Invoice,Printing,Marketing materials printing,Expense,,15000,INR
+11-02-2023,Cash,Food,Catering for office party,Expense,,20000,INR
+12-02-2023,Credit Card,Technology,Software licenses renewal,Expense,,30000,INR
+17-02-2023,Direct Debit,Rent,Office rent for the month,Expense,,80000,INR
+18-02-2023,UPI,Maintenance,Office equipment maintenance,Expense,,10000,INR
+19-03-2023,Invoice,Events,Hosting a tech conference,Expense,,60000,INR
+20-03-2023,Credit Card,Workshops,Employee training workshops,Expense,,85000,INR
+21-03-2023,UPI,Tours,Client site visits,Expense,,135000,INR
+22-03-2023,Cash,Repairs,Fixing office infrastructure,Expense,,12000,INR
+08-01-2023,Direct Debit,Utilities,Internet and phone bills,Expense,,12000,INR
+10-02-2023,Invoice,Printing,Marketing materials printing,Expense,,15000,INR
+11-02-2023,Cash,Food,Catering for office party,Expense,,20000,INR
+12-02-2023,Credit Card,Technology,Software licenses renewal,Expense,,30000,INR
+17-02-2023,Direct Debit,Rent,Office rent for the month,Expense,,80000,INR
+18-02-2023,UPI,Maintenance,Office equipment maintenance,Expense,,10000,INR
+19-03-2023,Invoice,Events,Hosting a tech conference,Expense,,60000,INR
+20-03-2023,Credit Card,Workshops,Employee training workshops,Expense,,25000,INR
+21-03-2023,UPI,Tours,Client site visits,Expense,,35000,INR
+22-03-2023,Cash,Repairs,Fixing office infrastructure,Expense,,12000,INR
+23-01-2023,Credit Card,Advertising,Online marketing campaign,Expense,,18000,INR
+24-01-2023,Invoice,Patents,Investment in new patents,Expense,,50000,INR
+25-01-2023,Direct Debit,Legal fees,Consultation with legal experts,Expense,,15000,INR
+26-01-2023,Credit Card,Taxes,Corporate taxes payment,Expense,,45000,INR
+27-01-2023,Cash,Payroll,Employee salaries,Expense,,90000,INR
+28-01-2023,UPI,Insurance,Health insurance premiums,Expense,,20000,INR
+29-01-2023,Direct Debit,Travel,Client visit travel expenses,Expense,,30000,INR
+30-01-2023,Invoice,Printing,Printing marketing brochures,Expense,,12000,INR
+21-01-2023,Credit Card,Food,Team lunch meeting,Expense,,8000,INR
+22-01-2023,Cash,Technology,Upgrade server infrastructure,Expense,,40000,INR
+23-01-2023,UPI,Rent,Office rent for the month,Expense,,80000,INR
+24-01-2023,Credit Card,Maintenance,Equipment repairs,Expense,,15000,INR
+25-04-2023,Invoice,Events,Participation in tech expo,Expense,,30000,INR
+26-04-2023,Direct Debit,Workshops,Skill development workshops,Expense,,25000,INR
+27-01-2023,Credit Card,Tours,Business development tours,Expense,,40000,INR
+28-01-2023,UPI,Repairs,Fixing office infrastructure,Expense,,12000,INR
+29-01-2023,Cash,Advertising,Social media advertising,Expense,,20000,INR
+30-01-2023,Invoice,Patents,Research and development,Expense,,60000,INR
+01-02-2023,Invoice,Project Earnings,Client Project A,,Income,120000,INR
+02-02-2023,Bank Transfer,External Funds,Investor Funding Round,,Income,200000,INR
+03-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,10000,INR
+04-02-2023,Bank Transfer,Investors,New Investor Funding,,Income,80000,INR
+05-02-2023,Invoice,Project Earnings,Client Project B,,Income,80000,INR
+06-02-2023,Bank Transfer,External Funds,Angel Investor Contribution,,Income,300000,INR
+07-02-2023,Bank Transfer,Investors,Seed Funding,,Income,50000,INR
+08-02-2023,Invoice,Project Earnings,Client Project C,,Income,100000,INR
+09-02-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,200000,INR
+10-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+11-02-2023,Bank Transfer,Investors,Series A Funding,,Income,250000,INR
+12-02-2023,Invoice,Project Earnings,Client Project D,,Income,95000,INR
+13-02-2023,Bank Transfer,External Funds,Private Equity Investment,,Income,200000,INR
+14-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,15000,INR
+15-02-2023,Bank Transfer,Investors,Series B Funding,,Income,100000,INR
+16-02-2023,Invoice,Project Earnings,Client Project E,,Income,110000,INR
+17-04-2023,Online Payment,External Funds,Crowdfunding Campaign,,Income,100000,INR
+18-02-2023,Bank Transfer,Investors,Series C Funding,,Income,100000,INR
+19-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,8000,INR
+20-02-2023,Invoice,Project Earnings,Client Project F,,Income,75000,INR
+21-04-2023,Bank Transfer,External Funds,Angel Investor Contribution,,Income,200000,INR
+22-02-2023,Bank Transfer,Investors,Series D Funding,,Income,20000,INR
+23-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,10000,INR
+24-06-2023,Invoice,Project Earnings,Client Project G,,Income,85000,INR
+25-06-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,300000,INR
+26-06-2023,Bank Transfer,Investors,Series E Funding,,Income,150000,INR
+27-06-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+28-06-2023,Invoice,Project Earnings,Client Project H,,Income,90000,INR
+10-02-2023,Invoice,Printing,Marketing materials printing,Expense,,15000,INR
+11-02-2023,Cash,Food,Catering for office party,Expense,,20000,INR
+12-02-2023,Credit Card,Technology,Software licenses renewal,Expense,,30000,INR
+17-02-2023,Direct Debit,Rent,Office rent for the month,Expense,,80000,INR
+18-02-2023,UPI,Maintenance,Office equipment maintenance,Expense,,10000,INR
+19-03-2023,Invoice,Events,Hosting a tech conference,Expense,,60000,INR
+20-03-2023,Credit Card,Workshops,Employee training workshops,Expense,,85000,INR
+21-03-2023,UPI,Tours,Client site visits,Expense,,135000,INR
+22-03-2023,Cash,Repairs,Fixing office infrastructure,Expense,,12000,INR
+08-01-2023,Direct Debit,Utilities,Internet and phone bills,Expense,,12000,INR
+10-02-2023,Invoice,Printing,Marketing materials printing,Expense,,15000,INR
+11-02-2023,Cash,Food,Catering for office party,Expense,,20000,INR
+12-02-2023,Credit Card,Technology,Software licenses renewal,Expense,,30000,INR
+17-02-2023,Direct Debit,Rent,Office rent for the month,Expense,,80000,INR
+18-02-2023,UPI,Maintenance,Office equipment maintenance,Expense,,10000,INR
+19-03-2023,Invoice,Events,Hosting a tech conference,Expense,,60000,INR
+20-03-2023,Credit Card,Workshops,Employee training workshops,Expense,,25000,INR
+21-03-2023,UPI,Tours,Client site visits,Expense,,35000,INR
+22-03-2023,Cash,Repairs,Fixing office infrastructure,Expense,,12000,INR
+23-01-2023,Credit Card,Advertising,Online marketing campaign,Expense,,18000,INR
+24-01-2023,Invoice,Patents,Investment in new patents,Expense,,50000,INR
+25-01-2023,Direct Debit,Legal fees,Consultation with legal experts,Expense,,15000,INR
+26-01-2023,Credit Card,Taxes,Corporate taxes payment,Expense,,45000,INR
+27-01-2023,Cash,Payroll,Employee salaries,Expense,,90000,INR
+28-01-2023,UPI,Insurance,Health insurance premiums,Expense,,20000,INR
+29-01-2023,Direct Debit,Travel,Client visit travel expenses,Expense,,30000,INR
+30-01-2023,Invoice,Printing,Printing marketing brochures,Expense,,12000,INR
+21-01-2023,Credit Card,Food,Team lunch meeting,Expense,,8000,INR
+22-01-2023,Cash,Technology,Upgrade server infrastructure,Expense,,40000,INR
+23-01-2023,UPI,Rent,Office rent for the month,Expense,,80000,INR
+24-01-2023,Credit Card,Maintenance,Equipment repairs,Expense,,15000,INR
+25-04-2023,Invoice,Events,Participation in tech expo,Expense,,30000,INR
+26-04-2023,Direct Debit,Workshops,Skill development workshops,Expense,,25000,INR
+27-01-2023,Credit Card,Tours,Business development tours,Expense,,40000,INR
+28-01-2023,UPI,Repairs,Fixing office infrastructure,Expense,,12000,INR
+29-01-2023,Cash,Advertising,Social media advertising,Expense,,20000,INR
+30-01-2023,Invoice,Patents,Research and development,Expense,,60000,INR
+01-02-2023,Invoice,Project Earnings,Client Project A,,Income,120000,INR
+02-02-2023,Bank Transfer,External Funds,Investor Funding Round,,Income,200000,INR
+03-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,10000,INR
+04-02-2023,Bank Transfer,Investors,New Investor Funding,,Income,80000,INR
+05-02-2023,Invoice,Project Earnings,Client Project B,,Income,80000,INR
+06-02-2023,Bank Transfer,External Funds,Angel Investor Contribution,,Income,300000,INR
+07-02-2023,Bank Transfer,Investors,Seed Funding,,Income,50000,INR
+08-02-2023,Invoice,Project Earnings,Client Project C,,Income,100000,INR
+09-02-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,200000,INR
+10-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+11-02-2023,Bank Transfer,Investors,Series A Funding,,Income,250000,INR
+12-02-2023,Invoice,Project Earnings,Client Project D,,Income,95000,INR
+13-02-2023,Bank Transfer,External Funds,Private Equity Investment,,Income,200000,INR
+14-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,15000,INR
+15-02-2023,Bank Transfer,Investors,Series B Funding,,Income,100000,INR
+16-02-2023,Invoice,Project Earnings,Client Project E,,Income,110000,INR
+17-04-2023,Online Payment,External Funds,Crowdfunding Campaign,,Income,100000,INR
+18-02-2023,Bank Transfer,Investors,Series C Funding,,Income,100000,INR
+19-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,8000,INR
+20-02-2023,Invoice,Project Earnings,Client Project F,,Income,75000,INR
+21-04-2023,Bank Transfer,External Funds,Angel Investor Contribution,,Income,200000,INR
+22-02-2023,Bank Transfer,Investors,Series D Funding,,Income,20000,INR
+23-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,10000,INR
+24-06-2023,Invoice,Project Earnings,Client Project G,,Income,85000,INR
+25-06-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,300000,INR
+26-06-2023,Bank Transfer,Investors,Series E Funding,,Income,150000,INR
+27-06-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+28-06-2023,Invoice,Project Earnings,Client Project H,,Income,90000,INR
+10-02-2023,Invoice,Printing,Marketing materials printing,Expense,,15000,INR
+11-02-2023,Cash,Food,Catering for office party,Expense,,20000,INR
+12-02-2023,Credit Card,Technology,Software licenses renewal,Expense,,30000,INR
+17-02-2023,Direct Debit,Rent,Office rent for the month,Expense,,80000,INR
+18-02-2023,UPI,Maintenance,Office equipment maintenance,Expense,,10000,INR
+19-03-2023,Invoice,Events,Hosting a tech conference,Expense,,60000,INR
+20-03-2023,Credit Card,Workshops,Employee training workshops,Expense,,85000,INR
+21-03-2023,UPI,Tours,Client site visits,Expense,,135000,INR
+22-03-2023,Cash,Repairs,Fixing office infrastructure,Expense,,12000,INR
+08-01-2023,Direct Debit,Utilities,Internet and phone bills,Expense,,12000,INR
+10-02-2023,Invoice,Printing,Marketing materials printing,Expense,,15000,INR
+11-02-2023,Cash,Food,Catering for office party,Expense,,20000,INR
+12-02-2023,Credit Card,Technology,Software licenses renewal,Expense,,30000,INR
+17-02-2023,Direct Debit,Rent,Office rent for the month,Expense,,80000,INR
+18-02-2023,UPI,Maintenance,Office equipment maintenance,Expense,,10000,INR
+19-03-2023,Invoice,Events,Hosting a tech conference,Expense,,60000,INR
+20-03-2023,Credit Card,Workshops,Employee training workshops,Expense,,25000,INR
+21-03-2023,UPI,Tours,Client site visits,Expense,,35000,INR
+22-03-2023,Cash,Repairs,Fixing office infrastructure,Expense,,12000,INR
+23-01-2023,Credit Card,Advertising,Online marketing campaign,Expense,,18000,INR
+24-01-2023,Invoice,Patents,Investment in new patents,Expense,,50000,INR
+25-01-2023,Direct Debit,Legal fees,Consultation with legal experts,Expense,,15000,INR
+26-01-2023,Credit Card,Taxes,Corporate taxes payment,Expense,,45000,INR
+27-01-2023,Cash,Payroll,Employee salaries,Expense,,90000,INR
+28-01-2023,UPI,Insurance,Health insurance premiums,Expense,,20000,INR
+29-01-2023,Direct Debit,Travel,Client visit travel expenses,Expense,,30000,INR
+30-01-2023,Invoice,Printing,Printing marketing brochures,Expense,,12000,INR
+21-01-2023,Credit Card,Food,Team lunch meeting,Expense,,8000,INR
+22-01-2023,Cash,Technology,Upgrade server infrastructure,Expense,,40000,INR
+23-01-2023,UPI,Rent,Office rent for the month,Expense,,80000,INR
+24-01-2023,Credit Card,Maintenance,Equipment repairs,Expense,,15000,INR
+25-04-2023,Invoice,Events,Participation in tech expo,Expense,,30000,INR
+26-04-2023,Direct Debit,Workshops,Skill development workshops,Expense,,25000,INR
+27-01-2023,Credit Card,Tours,Business development tours,Expense,,40000,INR
+28-01-2023,UPI,Repairs,Fixing office infrastructure,Expense,,12000,INR
+29-01-2023,Cash,Advertising,Social media advertising,Expense,,20000,INR
+30-01-2023,Invoice,Patents,Research and development,Expense,,60000,INR
+01-02-2023,Invoice,Project Earnings,Client Project A,,Income,120000,INR
+02-02-2023,Bank Transfer,External Funds,Investor Funding Round,,Income,200000,INR
+03-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,10000,INR
+04-02-2023,Bank Transfer,Investors,New Investor Funding,,Income,80000,INR
+05-02-2023,Invoice,Project Earnings,Client Project B,,Income,80000,INR
+06-02-2023,Bank Transfer,External Funds,Angel Investor Contribution,,Income,300000,INR
+07-02-2023,Bank Transfer,Investors,Seed Funding,,Income,50000,INR
+08-02-2023,Invoice,Project Earnings,Client Project C,,Income,100000,INR
+09-02-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,200000,INR
+10-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+11-02-2023,Bank Transfer,Investors,Series A Funding,,Income,250000,INR
+12-02-2023,Invoice,Project Earnings,Client Project D,,Income,95000,INR
+13-02-2023,Bank Transfer,External Funds,Private Equity Investment,,Income,200000,INR
+14-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,15000,INR
+15-02-2023,Bank Transfer,Investors,Series B Funding,,Income,100000,INR
+16-02-2023,Invoice,Project Earnings,Client Project E,,Income,110000,INR
+17-04-2023,Online Payment,External Funds,Crowdfunding Campaign,,Income,100000,INR
+18-02-2023,Bank Transfer,Investors,Series C Funding,,Income,100000,INR
+19-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,8000,INR
+20-02-2023,Invoice,Project Earnings,Client Project F,,Income,75000,INR
+21-04-2023,Bank Transfer,External Funds,Angel Investor Contribution,,Income,200000,INR
+22-02-2023,Bank Transfer,Investors,Series D Funding,,Income,20000,INR
+23-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,10000,INR
+24-06-2023,Invoice,Project Earnings,Client Project G,,Income,85000,INR
+25-06-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,300000,INR
+26-06-2023,Bank Transfer,Investors,Series E Funding,,Income,150000,INR
+27-06-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+28-06-2023,Invoice,Project Earnings,Client Project H,,Income,90000,INR
+10-02-2023,Invoice,Printing,Marketing materials printing,Expense,,15000,INR
+11-02-2023,Cash,Food,Catering for office party,Expense,,20000,INR
+12-02-2023,Credit Card,Technology,Software licenses renewal,Expense,,30000,INR
+17-02-2023,Direct Debit,Rent,Office rent for the month,Expense,,80000,INR
+18-02-2023,UPI,Maintenance,Office equipment maintenance,Expense,,10000,INR
+19-03-2023,Invoice,Events,Hosting a tech conference,Expense,,60000,INR
+20-03-2023,Credit Card,Workshops,Employee training workshops,Expense,,85000,INR
+21-03-2023,UPI,Tours,Client site visits,Expense,,135000,INR
+22-03-2023,Cash,Repairs,Fixing office infrastructure,Expense,,12000,INR
+08-01-2023,Direct Debit,Utilities,Internet and phone bills,Expense,,12000,INR
+10-02-2023,Invoice,Printing,Marketing materials printing,Expense,,15000,INR
+11-02-2023,Cash,Food,Catering for office party,Expense,,20000,INR
+12-02-2023,Credit Card,Technology,Software licenses renewal,Expense,,30000,INR
+17-02-2023,Direct Debit,Rent,Office rent for the month,Expense,,80000,INR
+18-02-2023,UPI,Maintenance,Office equipment maintenance,Expense,,10000,INR
+19-03-2023,Invoice,Events,Hosting a tech conference,Expense,,60000,INR
+20-03-2023,Credit Card,Workshops,Employee training workshops,Expense,,25000,INR
+21-03-2023,UPI,Tours,Client site visits,Expense,,35000,INR
+22-03-2023,Cash,Repairs,Fixing office infrastructure,Expense,,12000,INR
+23-01-2023,Credit Card,Advertising,Online marketing campaign,Expense,,18000,INR
+24-01-2023,Invoice,Patents,Investment in new patents,Expense,,50000,INR
+25-01-2023,Direct Debit,Legal fees,Consultation with legal experts,Expense,,15000,INR
+26-01-2023,Credit Card,Taxes,Corporate taxes payment,Expense,,45000,INR
+27-01-2023,Cash,Payroll,Employee salaries,Expense,,90000,INR
+28-01-2023,UPI,Insurance,Health insurance premiums,Expense,,20000,INR
+29-01-2023,Direct Debit,Travel,Client visit travel expenses,Expense,,30000,INR
+30-01-2023,Invoice,Printing,Printing marketing brochures,Expense,,12000,INR
+21-01-2023,Credit Card,Food,Team lunch meeting,Expense,,8000,INR
+22-01-2023,Cash,Technology,Upgrade server infrastructure,Expense,,40000,INR
+23-01-2023,UPI,Rent,Office rent for the month,Expense,,80000,INR
+24-01-2023,Credit Card,Maintenance,Equipment repairs,Expense,,15000,INR
+25-04-2023,Invoice,Events,Participation in tech expo,Expense,,30000,INR
+26-04-2023,Direct Debit,Workshops,Skill development workshops,Expense,,25000,INR
+27-01-2023,Credit Card,Tours,Business development tours,Expense,,40000,INR
+28-01-2023,UPI,Repairs,Fixing office infrastructure,Expense,,12000,INR
+29-01-2023,Cash,Advertising,Social media advertising,Expense,,20000,INR
+30-01-2023,Invoice,Patents,Research and development,Expense,,60000,INR
+01-02-2023,Invoice,Project Earnings,Client Project A,,Income,120000,INR
+02-02-2023,Bank Transfer,External Funds,Investor Funding Round,,Income,200000,INR
+03-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,10000,INR
+04-02-2023,Bank Transfer,Investors,New Investor Funding,,Income,80000,INR
+05-02-2023,Invoice,Project Earnings,Client Project B,,Income,80000,INR
+06-02-2023,Bank Transfer,External Funds,Angel Investor Contribution,,Income,300000,INR
+07-02-2023,Bank Transfer,Investors,Seed Funding,,Income,50000,INR
+08-02-2023,Invoice,Project Earnings,Client Project C,,Income,100000,INR
+09-02-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,200000,INR
+10-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+11-02-2023,Bank Transfer,Investors,Series A Funding,,Income,250000,INR
+12-02-2023,Invoice,Project Earnings,Client Project D,,Income,95000,INR
+13-02-2023,Bank Transfer,External Funds,Private Equity Investment,,Income,200000,INR
+14-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,15000,INR
+15-02-2023,Bank Transfer,Investors,Series B Funding,,Income,100000,INR
+16-02-2023,Invoice,Project Earnings,Client Project E,,Income,110000,INR
+17-04-2023,Online Payment,External Funds,Crowdfunding Campaign,,Income,100000,INR
+18-02-2023,Bank Transfer,Investors,Series C Funding,,Income,100000,INR
+19-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,8000,INR
+20-02-2023,Invoice,Project Earnings,Client Project F,,Income,75000,INR
+21-04-2023,Bank Transfer,External Funds,Angel Investor Contribution,,Income,200000,INR
+22-02-2023,Bank Transfer,Investors,Series D Funding,,Income,20000,INR
+23-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,10000,INR
+24-06-2023,Invoice,Project Earnings,Client Project G,,Income,85000,INR
+25-06-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,300000,INR
+26-06-2023,Bank Transfer,Investors,Series E Funding,,Income,150000,INR
+27-06-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+28-06-2023,Invoice,Project Earnings,Client Project H,,Income,90000,INR
+10-02-2023,Invoice,Printing,Marketing materials printing,Expense,,15000,INR
+11-02-2023,Cash,Food,Catering for office party,Expense,,20000,INR
+12-02-2023,Credit Card,Technology,Software licenses renewal,Expense,,30000,INR
+17-02-2023,Direct Debit,Rent,Office rent for the month,Expense,,80000,INR
+18-02-2023,UPI,Maintenance,Office equipment maintenance,Expense,,10000,INR
+19-03-2023,Invoice,Events,Hosting a tech conference,Expense,,60000,INR
+20-03-2023,Credit Card,Workshops,Employee training workshops,Expense,,85000,INR
+21-03-2023,UPI,Tours,Client site visits,Expense,,135000,INR
+22-03-2023,Cash,Repairs,Fixing office infrastructure,Expense,,12000,INR
+08-01-2023,Direct Debit,Utilities,Internet and phone bills,Expense,,12000,INR
+10-02-2023,Invoice,Printing,Marketing materials printing,Expense,,15000,INR
+11-02-2023,Cash,Food,Catering for office party,Expense,,20000,INR
+12-02-2023,Credit Card,Technology,Software licenses renewal,Expense,,30000,INR
+17-02-2023,Direct Debit,Rent,Office rent for the month,Expense,,80000,INR
+18-02-2023,UPI,Maintenance,Office equipment maintenance,Expense,,10000,INR
+19-03-2023,Invoice,Events,Hosting a tech conference,Expense,,60000,INR
+20-03-2023,Credit Card,Workshops,Employee training workshops,Expense,,25000,INR
+21-03-2023,UPI,Tours,Client site visits,Expense,,35000,INR
+22-03-2023,Cash,Repairs,Fixing office infrastructure,Expense,,12000,INR
+23-01-2023,Credit Card,Advertising,Online marketing campaign,Expense,,18000,INR
+24-01-2023,Invoice,Patents,Investment in new patents,Expense,,50000,INR
+25-01-2023,Direct Debit,Legal fees,Consultation with legal experts,Expense,,15000,INR
+26-01-2023,Credit Card,Taxes,Corporate taxes payment,Expense,,45000,INR
+27-01-2023,Cash,Payroll,Employee salaries,Expense,,90000,INR
+28-01-2023,UPI,Insurance,Health insurance premiums,Expense,,20000,INR
+29-01-2023,Direct Debit,Travel,Client visit travel expenses,Expense,,30000,INR
+30-01-2023,Invoice,Printing,Printing marketing brochures,Expense,,12000,INR
+21-01-2023,Credit Card,Food,Team lunch meeting,Expense,,8000,INR
+22-01-2023,Cash,Technology,Upgrade server infrastructure,Expense,,40000,INR
+23-01-2023,UPI,Rent,Office rent for the month,Expense,,80000,INR
+24-01-2023,Credit Card,Maintenance,Equipment repairs,Expense,,15000,INR
+25-04-2023,Invoice,Events,Participation in tech expo,Expense,,30000,INR
+26-04-2023,Direct Debit,Workshops,Skill development workshops,Expense,,25000,INR
+27-01-2023,Credit Card,Tours,Business development tours,Expense,,40000,INR
+28-01-2023,UPI,Repairs,Fixing office infrastructure,Expense,,12000,INR
+29-01-2023,Cash,Advertising,Social media advertising,Expense,,20000,INR
+30-01-2023,Invoice,Patents,Research and development,Expense,,60000,INR
+01-02-2023,Invoice,Project Earnings,Client Project A,,Income,120000,INR
+02-02-2023,Bank Transfer,External Funds,Investor Funding Round,,Income,200000,INR
+03-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,10000,INR
+04-02-2023,Bank Transfer,Investors,New Investor Funding,,Income,80000,INR
+05-02-2023,Invoice,Project Earnings,Client Project B,,Income,80000,INR
+06-02-2023,Bank Transfer,External Funds,Angel Investor Contribution,,Income,300000,INR
+07-02-2023,Bank Transfer,Investors,Seed Funding,,Income,50000,INR
+08-02-2023,Invoice,Project Earnings,Client Project C,,Income,100000,INR
+09-02-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,200000,INR
+10-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+11-02-2023,Bank Transfer,Investors,Series A Funding,,Income,250000,INR
+12-02-2023,Invoice,Project Earnings,Client Project D,,Income,95000,INR
+13-02-2023,Bank Transfer,External Funds,Private Equity Investment,,Income,200000,INR
+14-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,15000,INR
+15-02-2023,Bank Transfer,Investors,Series B Funding,,Income,100000,INR
+16-02-2023,Invoice,Project Earnings,Client Project E,,Income,110000,INR
+17-04-2023,Online Payment,External Funds,Crowdfunding Campaign,,Income,100000,INR
+18-02-2023,Bank Transfer,Investors,Series C Funding,,Income,100000,INR
+19-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,8000,INR
+20-02-2023,Invoice,Project Earnings,Client Project F,,Income,75000,INR
+21-04-2023,Bank Transfer,External Funds,Angel Investor Contribution,,Income,200000,INR
+22-02-2023,Bank Transfer,Investors,Series D Funding,,Income,20000,INR
+23-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,10000,INR
+24-06-2023,Invoice,Project Earnings,Client Project G,,Income,85000,INR
+25-06-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,300000,INR
+26-06-2023,Bank Transfer,Investors,Series E Funding,,Income,150000,INR
+27-06-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+28-06-2023,Invoice,Project Earnings,Client Project H,,Income,90000,INR
+10-02-2023,Invoice,Printing,Marketing materials printing,Expense,,15000,INR
+11-02-2023,Cash,Food,Catering for office party,Expense,,20000,INR
+12-02-2023,Credit Card,Technology,Software licenses renewal,Expense,,30000,INR
+17-02-2023,Direct Debit,Rent,Office rent for the month,Expense,,80000,INR
+18-02-2023,UPI,Maintenance,Office equipment maintenance,Expense,,10000,INR
+19-03-2023,Invoice,Events,Hosting a tech conference,Expense,,60000,INR
+20-03-2023,Credit Card,Workshops,Employee training workshops,Expense,,85000,INR
+21-03-2023,UPI,Tours,Client site visits,Expense,,135000,INR
+22-03-2023,Cash,Repairs,Fixing office infrastructure,Expense,,12000,INR
+10-02-2023,Invoice,Printing,Marketing materials printing,Expense,,15000,INR
+11-02-2023,Cash,Food,Catering for office party,Expense,,20000,INR
+07-02-2023,Bank Transfer,Investors,Seed Funding,,Income,50000,INR
+08-02-2023,Invoice,Project Earnings,Client Project C,,Income,100000,INR
+09-02-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,200000,INR
+10-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+11-02-2023,Bank Transfer,Investors,Series A Funding,,Income,250000,INR
+12-02-2023,Invoice,Project Earnings,Client Project D,,Income,95000,INR
+13-02-2023,Bank Transfer,External Funds,Private Equity Investment,,Income,200000,INR
+14-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,15000,INR
+15-02-2023,Bank Transfer,Investors,Series B Funding,,Income,100000,INR
+16-02-2023,Invoice,Project Earnings,Client Project E,,Income,110000,INR
+07-02-2023,Bank Transfer,Investors,Seed Funding,,Income,50000,INR
+08-02-2023,Invoice,Project Earnings,Client Project C,,Income,100000,INR
+09-02-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,200000,INR
+10-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+11-02-2023,Bank Transfer,Investors,Series A Funding,,Income,250000,INR
+12-02-2023,Invoice,Project Earnings,Client Project D,,Income,95000,INR
+13-02-2023,Bank Transfer,External Funds,Private Equity Investment,,Income,200000,INR
+14-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,15000,INR
+15-02-2023,Bank Transfer,Investors,Series B Funding,,Income,100000,INR
+16-02-2023,Invoice,Project Earnings,Client Project E,,Income,110000,INR
+07-02-2023,Bank Transfer,Investors,Seed Funding,,Income,50000,INR
+08-02-2023,Invoice,Project Earnings,Client Project C,,Income,100000,INR
+09-02-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,200000,INR
+10-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+11-02-2023,Bank Transfer,Investors,Series A Funding,,Income,250000,INR
+12-02-2023,Invoice,Project Earnings,Client Project D,,Income,95000,INR
+13-02-2023,Bank Transfer,External Funds,Private Equity Investment,,Income,200000,INR
+14-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,15000,INR
+15-02-2023,Bank Transfer,Investors,Series B Funding,,Income,100000,INR
+16-02-2023,Invoice,Project Earnings,Client Project E,,Income,110000,INR
+07-02-2023,Bank Transfer,Investors,Seed Funding,,Income,50000,INR
+08-02-2023,Invoice,Project Earnings,Client Project C,,Income,100000,INR
+09-02-2023,Bank Transfer,External Funds,Venture Capital Funding,,Income,200000,INR
+10-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,12000,INR
+11-02-2023,Bank Transfer,Investors,Series A Funding,,Income,250000,INR
+12-02-2023,Invoice,Project Earnings,Client Project D,,Income,95000,INR
+13-02-2023,Bank Transfer,External Funds,Private Equity Investment,,Income,200000,INR
+14-02-2023,Check,Deposit Returns,Refundable Deposits,,Income,15000,INR
+15-02-2023,Bank Transfer,Investors,Series B Funding,,Income,100000,INR
+16-02-2023,Invoice,Project Earnings,Client Project E,,Income,110000,INR
