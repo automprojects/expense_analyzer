@@ -27,7 +27,7 @@ The Organization Expense Analyzer is a Python-based project that leverages machi
 
 ## Project Structure
 - `app.py`: Main script containing the Streamlit application.
-- `your_expense_dataset.csv`: Sample dataset (replace with your actual dataset file).
+- `company_dataset.csv`: Sample dataset (replace with your actual dataset file).
 - `requirements.txt`: List of project dependencies.
 
 ## Contributing
