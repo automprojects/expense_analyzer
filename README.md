@@ -38,4 +38,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Note:** Replace the placeholders (`yourusername`, `your_expense_dataset.csv`, etc.) with your actual information and project details.
+**Note:** Replace the placeholders (`yourusername`, `company_dataset.csv`, etc.) with your actual information and project details.
