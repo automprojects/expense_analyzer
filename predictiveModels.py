@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.linear_model import LinearRegression
 from sklearn.impute import SimpleImputer
+import warnings
 
 # Load the expense dataset (replace 'your_expense_dataset.csv' with your actual dataset file)
 expenses = pd.read_csv('https://raw.githubusercontent.com/automprojects/expense_analyzer/main/company_dataset.csv')
@@ -49,7 +50,7 @@ st.title('Expense Predictor using ML Models')
 # Prediction Form
 st.sidebar.header('Expense Prediction Input')
 new_expense_amount = st.sidebar.number_input('Enter Amount', value=2000000)
-
+warnings.filterwarnings("ignore", category=UserWarning)
 
 # Visualization: Pie chart for predicted expense distribution by category
 predicted_expenses = pd.DataFrame({'Category': expenses['Category'], 'Amount': model_expenses.predict(expenses[features])})
