@@ -61,9 +61,9 @@ predicted_expenses['Category'] = predicted_expenses['Category'].map(reverse_cate
 predicted_category_idx = model_expenses.predict([[new_expense_amount]])[0]
 predicted_category = [category for category, idx in category_mapping.items() if idx == predicted_category_idx][0]
 
-# # Display the predicted expense category
+# Display the predicted expense category
 st.sidebar.subheader('(Category & Amount Distribution Prediction)')
-# st.sidebar.write(predicted_category)
+
 
 # Visualization: Pie chart for predicted expense distribution by category
 predicted_expenses = pd.DataFrame({'Category': expenses['Category'],
