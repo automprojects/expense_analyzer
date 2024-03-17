@@ -70,7 +70,7 @@ st.sidebar.subheader('(Category & Amount Distribution Prediction)')
 predicted_expenses = pd.DataFrame({'Category': expenses['Category'],
                                     'Amount': model_expenses.predict(expenses[features])})
 
-# Print the predicted_expenses DataFrame for debugging
+# Print the predicted_expenses DataFrame
 st.write("Predicted Expenses DataFrame:")
 st.write(predicted_expenses)
 
@@ -100,7 +100,7 @@ fig_sunburst = px.sunburst(
 # Display the chart using Streamlit
 st.plotly_chart(fig_sunburst)
 
-# Print the amount_distribution for debugging
+# Print the amount_distribution
 st.write("Allocated Amount Distribution:")
 st.write(amount_distribution)
 
