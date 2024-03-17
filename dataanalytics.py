@@ -4,9 +4,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 import plotly.io as pio
 import plotly.colors as colors
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-
 
 pio.templates.default = "plotly_white"
 
