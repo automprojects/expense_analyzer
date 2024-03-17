@@ -48,7 +48,7 @@ st.title('Expense Predictor using ML Models')
 
 # Prediction Form
 st.sidebar.header('Expense Prediction Input')
-new_expense_amount = st.sidebar.number_input('Enter Amount', value=200000)
+new_expense_amount = st.sidebar.number_input('Enter Amount', value=2000000)
 
 
 # Visualization: Pie chart for predicted expense distribution by category
@@ -79,7 +79,7 @@ predicted_expenses['Category'] = predicted_expenses['Category'].map(reverse_cate
 # Calculate the percentage distribution
 percentage_distribution = predicted_expenses.groupby('Category').size() / len(predicted_expenses)
 
-# Print the percentage_distribution for debugging
+# Print the percentage_distribution 
 st.write("Percentage Distribution:")
 st.write(percentage_distribution)
 
