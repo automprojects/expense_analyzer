@@ -7,12 +7,18 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.linear_model import LinearRegression
 from sklearn.impute import SimpleImputer
 import warnings
+from streamlit_telegram_login import TelegramLoginWidgetComponent
+
 
 # Load the expense dataset (replace 'your_expense_dataset.csv' with your actual dataset file)
-expenses = pd.read_csv('https://raw.githubusercontent.com/automprojects/expense_analyzer/main/company_dataset.csv')
+expenses = pd.read_csv('company_dataset.csv')
 
 # Streamlit App
 st.title('Expense Analyzer')
+
+telegram_login = TelegramLoginWidgetComponent(bot_username="gc_budget_helper_bot", secret_key="8376787921:AAGk999p5aTPurkT8ukrx6YwV4QOdKmVFGI")
+value = telegram_login.button
+st.write(value)
 
 # Display the expense dataset
 st.write('### Organization Expense Dataset')

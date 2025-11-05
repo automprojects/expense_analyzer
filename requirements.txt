@@ -1,4 +1,4 @@
 plotly
 streamlit
 pandas
-sklearn
+scikit-learn
