@@ -8,3 +8,5 @@ RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
 CMD ["streamlit", "run", "predictiveModels.py", "&", "python", "bot.py"]
+
+EXPOSE 8501
