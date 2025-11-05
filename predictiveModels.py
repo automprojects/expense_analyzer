@@ -148,3 +148,4 @@ st.plotly_chart(fig_bubble)
 # Add a footer
 st.markdown("---")
 st.markdown("Developed by JNNIE | Data Source: Organization's Business Dataset")
+

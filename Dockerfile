@@ -7,6 +7,6 @@ WORKDIR /app
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
-CMD ["streamlit", "run", "predictiveModels.py", "&", "python", "bot.py"]
+CMD ["streamlit", "run", "predictiveModels.py", "--server.port", "80", "&", "python", "bot.py"]
 
-EXPOSE 8501
+EXPOSE 80

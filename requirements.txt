@@ -2,3 +2,5 @@ plotly
 streamlit
 pandas
 scikit-learn
+streamlit_telegram_login
+aiogram
