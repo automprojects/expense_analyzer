@@ -1,4 +1,6 @@
 plotly
 streamlit
 pandas
-sklearn
+scikit-learn
+streamlit_telegram_login
+aiogram
